@@ -1,0 +1,11 @@
+{
+    "client_id": "88694589472-6gtb2rbh4420v6utrckclgkc2o8k1e1l.apps.googleusercontent.com",
+    "client_secret": "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",
+    "scope": [
+      "https://www.googleapis.com/auth/drive",
+      "https://www.googleapis.com/auth/drive.file"
+    ],
+    "refresh_token": null,
+    "redirect_uri": "urn:ietf:wg:oauth:2.0:oob"
+  }
+  
